@@ -1,3 +1,9 @@
+unity-greeter (13.10.3-1) petra; urgency=low
+
+  * Adapted to Linux Mint
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 31 Oct 2013 15:27:36 +0000
+
 unity-greeter (13.10.3-0ubuntu1) saucy; urgency=low
 
   [ William Hua ]
