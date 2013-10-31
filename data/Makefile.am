@@ -17,7 +17,9 @@ dist_pkgdata_DATA = \
 	remote_login_help.png \
 	shadow.png \
 	ubuntu_badge.png \
-	unknown_badge.png
+	unknown_badge.png \
+	custom_cinnamon_badge.png \
+	custom_mate_badge.png	
 
 @GSETTINGS_RULES@
 gsettings_SCHEMAS = com.canonical.unity-greeter.gschema.xml
